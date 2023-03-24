@@ -215,4 +215,3 @@ Overview: The speaker summarizes the topics covered in this lecture about system
 - Linux is not a real-time operating system, so extra scheduling algorithms are needed for real-time operations.
 - Hard vs soft real-time systems depend on the number of times an operation can be guaranteed within a deadline time. 
 
-
