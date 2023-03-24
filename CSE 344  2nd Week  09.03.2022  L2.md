@@ -88,13 +88,6 @@ Overview: In this section, the speaker concludes their discussion on allocating 
 * There are virtual memory segments and related things with yep (special call).
 * A little portion of data exists in Kernel space too.
 
-## [0:31:04](https://youtu.be/FQ1VUzs5TYM?t=1864s) Introduction to the MEAN Stack
-
-Overview: In this section, the speaker introduces the MEAN stack and its environment.
-
-* MEAN stack includes MongoDB, Express.js, AngularJS, and Node.js.
-* Environment refers to the software and hardware infrastructure that supports an application.
-
 ## [0:31:25](https://youtu.be/FQ1VUzs5TYM?t=1885s) Q\&A Session
 
 Overview: In this section, the speaker opens up for questions from students.
