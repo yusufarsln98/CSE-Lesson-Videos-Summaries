@@ -95,7 +95,7 @@ Overview: This section explains how determination requests are made and how the 
 - The kernel prepares the necessary kill signal to ensure proper execution and returns with necessary return variables.
 - The parent waits for the child to finish executing.
 
-# 0:22:05 Descriptive Title
+# [0:22:05](https://youtu.be/FePITzVOgEs?t=1325s) Descriptive Title
 
 Overview: The speaker discusses the use of demons and human processes in operating systems, and how they are designed to run for a long time. They also explain the importance of synchronizing processes when using Fork.
 
@@ -106,7 +106,7 @@ Overview: The speaker discusses the use of demons and human processes in operati
 - When a new process is created via Fork, it has the same environmental list as its parent.
 - Synchronizing processes is important because you don't know which execution will be held by the kernel at which time.
 
-## 0:26:24 Memory Mapping
+## [0:26:24](https://youtu.be/FePITzVOgEs?t=1584s) Memory Mapping
 
 Overview: The speaker explains memory mapping and how it can be used to allocate memory for a process.
 
