@@ -200,4 +200,3 @@ Overview: Processes operate in isolation and cannot directly communicate with ea
 - Processes operate in isolation and cannot directly communicate with each other
 - Fork is a request to the operating system to create a new process that is identical to the requesting process
 - Requests to end processes are handled by the kernel, not directly by the requesting process
-
