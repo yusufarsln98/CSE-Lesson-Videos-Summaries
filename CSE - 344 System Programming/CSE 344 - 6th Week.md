@@ -1,3 +1,5 @@
+# CSE344 - 6th Week
+
 # [00:00:02](https://youtu.be/R3yDioKEUG8?t=2s) Introduction
 
 This video is about inter-process communication (IPC) and focuses on pipes and fifos. The speaker also briefly mentions other IPC tools such as shared memory, signals, semaphores, file locks, condition variables, and mutexes.

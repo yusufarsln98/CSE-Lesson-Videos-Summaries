@@ -1,4 +1,4 @@
-# CSE344 | 2nd Week | 09.03.2023-L1
+# CSE344 - 2nd Week Lecture 1
 
 The video lecture covers various topics in system programming, including system calls, error handling, process creation and management, and memory allocation. The speaker explains how system calls work, with the kernel performing requested tasks on behalf of the program. They highlight the importance of error handling, cautioning programmers to be mindful of different library errors and advising the use of standard error handling functions. The video also covers process creation and management, including unique identification numbers and the importance of the init process. Finally, the speaker explains the concept of memory allocation for a process during program execution, highlighting the dynamic nature of the heap and stack segments.
 
